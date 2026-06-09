@@ -64,7 +64,11 @@ This project is created due to cross check every name of my friends and seniors 
 
 you could change the name of the university and the major to filter out
 
+## Features
 
+1. Interactive Batch Search
+   You could just copy and paste some row of code and it will works
+2. Singular Search
 
 ## Notes
 
