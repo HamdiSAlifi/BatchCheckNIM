@@ -23,9 +23,8 @@ This project is created due to cross check every name of my friends and seniors 
 
 ```bash
 
-&#x09;git clone https://github.com/HamdiSAlifi/BatchCheckNIM.git
-
-&#x09;cd <your-repo>
+  git clone https://github.com/HamdiSAlifi/BatchCheckNIM.git
+  cd <your-repo>
 
 ```
 
@@ -35,7 +34,7 @@ This project is created due to cross check every name of my friends and seniors 
 
 ```bash
 
-&#x09;pip install pddiktipy
+  pip install pddiktipy
 
 ```
 
@@ -45,7 +44,7 @@ This project is created due to cross check every name of my friends and seniors 
 
 ```bash
 
-python checkBatch.py
+  python checkBatch.py
 
 ```
 
