@@ -67,7 +67,7 @@ you could change the name of the university and the major to filter out
 ## Features
 
 1. Interactive Batch Search
-   You could just copy and paste some row of code and it will works
+You could just copy and paste some row of code and it will works
 2. Singular Search
 
 ## Notes
