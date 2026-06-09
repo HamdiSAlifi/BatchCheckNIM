@@ -1,4 +1,4 @@
-\# BATCH CHECK NIM FROM PDDIKTI
+# BATCH CHECK NIM FROM PDDIKTI
 
 
 
@@ -6,7 +6,7 @@ This project is created due to cross check every name of my friends and seniors 
 
 
 
-\## Requirements
+## Requirements
 
 
 
@@ -15,7 +15,7 @@ This project is created due to cross check every name of my friends and seniors 
 
 
 
-\## Installation 
+## Installation 
 
 
 
@@ -30,7 +30,7 @@ This project is created due to cross check every name of my friends and seniors 
 
 
 
-2\. Install Dependencies
+2. Install Dependencies
 
 ```bash
 
@@ -40,7 +40,7 @@ This project is created due to cross check every name of my friends and seniors 
 
 
 
-\## Usage
+## Usage
 
 ```bash
 
@@ -50,7 +50,7 @@ This project is created due to cross check every name of my friends and seniors 
 
 
 
-\## Configuration
+## Configuration
 
 | Variable | Description | Default |
 
@@ -66,7 +66,7 @@ you could change the name of the university and the major to filter out
 
 
 
-\## Notes
+## Notes
 
 
 
@@ -75,11 +75,10 @@ you could change the name of the university and the major to filter out
 
 
 
-\## Author
+## Author
 
 
 
 Hamdi
-
 * GitHub: https://github.com/HamdiSAlifi
 
